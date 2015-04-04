@@ -18,7 +18,6 @@
 ### Below this line was the original .gitignore suggested by Github
 *.rbc
 capybara-*.html
-.rspec
 /log
 /tmp
 /db/*.sqlite3
