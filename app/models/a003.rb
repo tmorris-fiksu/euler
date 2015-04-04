@@ -1,5 +1,5 @@
 class A003
-  def self.primes(x)
+  def self.prime_factors_of(x)
     if x ==2
       return [2]
     end
